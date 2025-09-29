@@ -1,0 +1,20 @@
+# --- Secrets ---
+# Ignore the environment file containing the API key
+.env
+
+# --- Python/Conda Environment ---
+# Ignore Python's cache folders and compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders (covers venv, sih_env, etc.)
+/venv/
+/sih_env/
+/sih_project/
+
+# --- IDE / Editor specific files ---
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore macOS specific files
+.DS_Store
