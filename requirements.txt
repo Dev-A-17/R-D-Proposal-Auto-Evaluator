@@ -3,3 +3,5 @@ google-generativeai
 pypdf2
 python-dotenv
 numpy
+fpdf2
+plotly
